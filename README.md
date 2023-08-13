@@ -7,3 +7,9 @@ Convertor form csv to vcf + GUI programm
 
 
 ## GUI app created using Tkinter and Custom Tkinter
+Add field for adding input from user:
+1. CSV file
+2. Where to save
+3. Convert Button to start the process
+
+converterCSVtoVCF.exe -> is created by using _pyInstaller_
